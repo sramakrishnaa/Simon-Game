@@ -44,6 +44,6 @@ The Simon Game was created by [Ramakrishna](https://github.com/sramakrishnaa). S
 
 ## Feedback and Contributions
 
-If you have any suggestions, feedback, or would like to contribute to the Simon Game, please feel free to [open an issue](https://github.com/your-username/simon-game/issues) or [submit a pull request](https://github.com/your-username/simon-game/pulls). Your contributions are greatly appreciated!
+If you have any suggestions, feedback, or would like to contribute to the Simon Game, please feel free to [open an issue](https://github.com/sramakrishnaa/simon-game/issues) or [submit a pull request](https://github.com/sramakrishnaa/simon-game/pulls). Your contributions are greatly appreciated!
 
 Enjoy playing the Simon Game!
