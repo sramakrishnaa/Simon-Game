@@ -4,7 +4,7 @@ Welcome to the Simon Game! This is a web-based memory game where players follow 
 
 ## How to Play
 
-1. Open the [Simon Game](https://your-game-url.com) in your web browser.
+1. Open the [Simon Game](https://sramakrishnaa.github.io/Simon-Game/) in your web browser.
 2. Press any key to start. When the game starts, the computer will play a sequence of colors and sounds.
 3. Pay close attention to the sequence as you will need to repeat it.
 4. Click or tap on the colors in the same order as the computer's sequence.
